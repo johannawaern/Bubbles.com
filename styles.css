@@ -9,6 +9,7 @@ margin:0px;
 p {
   font-style: normal;
   font-family: sans-serif;
+  
 }
 
 h3 {
@@ -44,8 +45,8 @@ h3 {
 }
 
 .footer {
-  background-color:#ffffff;
-  padding: 40px;
-  color: #000000;
+  background-color:#FB8dA3;
+  padding: 30px;
+  color: #ffffff;
   text-align: center;
 }
