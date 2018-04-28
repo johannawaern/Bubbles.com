@@ -28,3 +28,10 @@ margin:0px;
 20% {opacity:.5;}
 9% {opacity:0;}
 }
+
+.footer {
+  background-color:#ffffff;
+  padding: 40px;
+  color: #000000;
+  text-align: center;
+}
