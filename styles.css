@@ -6,6 +6,17 @@ padding:0px;
 margin:0px;
 }
 
+p {
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+h3 {
+  font-style: normal;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
 .logotyp {
   margin: 50px;
 }
@@ -16,6 +27,9 @@ margin:0px;
   align-items: baseline;
   -webkit-animation: flicker 1s infinite;
 }
+
+
+
 
 @-webkit-keyframes flicker
 {
